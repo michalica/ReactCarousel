@@ -18,10 +18,14 @@
   "license": "MIT",
   "homepage": "https://github.com/alicoding/react-webpack-babel#readme",
   "dependencies": {
+    "bootstrap": "^4.0.0-beta",
     "node-sass": "^4.3.0",
+    "nuka-carousel": "^2.2.0",
     "react": "15.6.1",
     "react-dom": "15.4.2",
-    "sass-loader": "^6.0.2"
+    "react-slick": "^0.14.11",
+    "sass-loader": "^6.0.2",
+    "slick-carousel": "^1.7.1"
   },
   "devDependencies": {
     "babel-core": "^6.23.1",
